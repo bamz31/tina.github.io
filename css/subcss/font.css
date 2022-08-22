@@ -1,0 +1,9 @@
+@font-face {
+   font-family: "fruktur";
+   src: url("../../assets/font/Fruktur.ttf") format("truetype");
+}
+
+@font-face {
+   font-family: "poppins";
+   src: url("../../assets/font/poppins/Poppins-Regular.otf");
+}
